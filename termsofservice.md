@@ -1,10 +1,10 @@
-<h1>Terms of Service ("Terms")</h1>
+# Terms of Service ("Terms")
 
 
-<p>Last updated: July 31, 2019</p>
+Last updated: July 31, 2019
 
 
-<p>Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the https://kappalarastudios.github.io website (the "Service") operated by Kappalara Studios ("us", "we", or "our").</p>
+Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the https://kappalarastudios.github.io website (the "Service") operated by Kappalara Studios ("us", "we", or "our").</p>
 
 <p>Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.</p>
 
