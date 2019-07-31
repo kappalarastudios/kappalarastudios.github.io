@@ -49,22 +49,22 @@ Cookies are files with a small amount of data which may include an anonymous uni
 You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 Examples of Cookies we use:
 
-    * **Session Cookies.** We use Session Cookies to operate our Service.
-    * **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
-    * **Security Cookies.** We use Security Cookies for security purposes.
+* **Session Cookies.** We use Session Cookies to operate our Service.
+* **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+* **Security Cookies.** We use Security Cookies for security purposes.
 
 
 ## Use of Data
     
 Kappalara Studios uses the collected data for various purposes:    
 
-    * To provide and maintain the Service
-    * To notify you about changes to our Service
-    * To allow you to participate in interactive features of our Service when you choose to do so
-    * To provide customer care and support
-    * To provide analysis or valuable information so that we can improve the Service
-    * To monitor the usage of the Service
-    * To detect, prevent and address technical issues
+* To provide and maintain the Service
+* To notify you about changes to our Service
+* To allow you to participate in interactive features of our Service when you choose to do so
+* To provide customer care and support
+* To provide analysis or valuable information so that we can improve the Service
+* To monitor the usage of the Service
+* To detect, prevent and address technical issues
 
 
 ## Transfer Of Data
@@ -78,11 +78,11 @@ Kappalara Studios will take all steps reasonably necessary to ensure that your d
 ### Legal Requirements
 Kappalara Studios may disclose your Personal Data in the good faith belief that such action is necessary to:
 
-    * To comply with a legal obligation
-    * To protect and defend the rights or property of Kappalara Studios
-    * To prevent or investigate possible wrongdoing in connection with the Service
-    * To protect the personal safety of users of the Service or the public
-    * To protect against legal liability
+* To comply with a legal obligation
+* To protect and defend the rights or property of Kappalara Studios
+* To prevent or investigate possible wrongdoing in connection with the Service
+* To protect the personal safety of users of the Service or the public
+* To protect against legal liability
 
 
 As an European citizen, under GDPR, you have certain individual rights. You can learn more about these guides in the [GDPR Guide](https://termsfeed.com/blog/gdpr/#Individual_Rights_Under_the_GDPR).
